@@ -1,0 +1,10 @@
+E:\Revisão C#\Procedimentos Lista de Animais(MG)\bin\Debug\Procedimentos Lista de Animais(MG).exe.config
+E:\Revisão C#\Procedimentos Lista de Animais(MG)\bin\Debug\Procedimentos Lista de Animais(MG).exe
+E:\Revisão C#\Procedimentos Lista de Animais(MG)\bin\Debug\Procedimentos Lista de Animais(MG).pdb
+E:\Revisão C#\Procedimentos Lista de Animais(MG)\obj\Debug\Procedimentos Lista de Animais(MG).csprojAssemblyReference.cache
+E:\Revisão C#\Procedimentos Lista de Animais(MG)\obj\Debug\Procedimentos_Lista_de_Animais_MG_.Form1.resources
+E:\Revisão C#\Procedimentos Lista de Animais(MG)\obj\Debug\Procedimentos_Lista_de_Animais_MG_.Properties.Resources.resources
+E:\Revisão C#\Procedimentos Lista de Animais(MG)\obj\Debug\Procedimentos Lista de Animais(MG).csproj.GenerateResource.cache
+E:\Revisão C#\Procedimentos Lista de Animais(MG)\obj\Debug\Procedimentos Lista de Animais(MG).csproj.CoreCompileInputs.cache
+E:\Revisão C#\Procedimentos Lista de Animais(MG)\obj\Debug\Procedimentos Lista de Animais(MG).exe
+E:\Revisão C#\Procedimentos Lista de Animais(MG)\obj\Debug\Procedimentos Lista de Animais(MG).pdb
