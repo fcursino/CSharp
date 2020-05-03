@@ -1,0 +1,10 @@
+E:\Revisão C#\Lista Maior e Menor(MG)\bin\Debug\Lista Maior e Menor(MG).exe.config
+E:\Revisão C#\Lista Maior e Menor(MG)\bin\Debug\Lista Maior e Menor(MG).exe
+E:\Revisão C#\Lista Maior e Menor(MG)\bin\Debug\Lista Maior e Menor(MG).pdb
+E:\Revisão C#\Lista Maior e Menor(MG)\obj\Debug\Lista Maior e Menor(MG).csprojAssemblyReference.cache
+E:\Revisão C#\Lista Maior e Menor(MG)\obj\Debug\Lista_Maior_e_Menor_MG_.Form1.resources
+E:\Revisão C#\Lista Maior e Menor(MG)\obj\Debug\Lista_Maior_e_Menor_MG_.Properties.Resources.resources
+E:\Revisão C#\Lista Maior e Menor(MG)\obj\Debug\Lista Maior e Menor(MG).csproj.GenerateResource.cache
+E:\Revisão C#\Lista Maior e Menor(MG)\obj\Debug\Lista Maior e Menor(MG).csproj.CoreCompileInputs.cache
+E:\Revisão C#\Lista Maior e Menor(MG)\obj\Debug\Lista Maior e Menor(MG).exe
+E:\Revisão C#\Lista Maior e Menor(MG)\obj\Debug\Lista Maior e Menor(MG).pdb
