@@ -1,0 +1,10 @@
+E:\Revisão C#\FormatException Par ou Impar(MG)\bin\Debug\FormatException Par ou Impar(MG).exe.config
+E:\Revisão C#\FormatException Par ou Impar(MG)\bin\Debug\FormatException Par ou Impar(MG).exe
+E:\Revisão C#\FormatException Par ou Impar(MG)\bin\Debug\FormatException Par ou Impar(MG).pdb
+E:\Revisão C#\FormatException Par ou Impar(MG)\obj\Debug\FormatException Par ou Impar(MG).csprojAssemblyReference.cache
+E:\Revisão C#\FormatException Par ou Impar(MG)\obj\Debug\FormatException_Par_ou_Impar_MG_.Form1.resources
+E:\Revisão C#\FormatException Par ou Impar(MG)\obj\Debug\FormatException_Par_ou_Impar_MG_.Properties.Resources.resources
+E:\Revisão C#\FormatException Par ou Impar(MG)\obj\Debug\FormatException Par ou Impar(MG).csproj.GenerateResource.cache
+E:\Revisão C#\FormatException Par ou Impar(MG)\obj\Debug\FormatException Par ou Impar(MG).csproj.CoreCompileInputs.cache
+E:\Revisão C#\FormatException Par ou Impar(MG)\obj\Debug\FormatException Par ou Impar(MG).exe
+E:\Revisão C#\FormatException Par ou Impar(MG)\obj\Debug\FormatException Par ou Impar(MG).pdb
