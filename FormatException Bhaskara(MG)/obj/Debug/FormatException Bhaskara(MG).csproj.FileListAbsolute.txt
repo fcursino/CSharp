@@ -1,0 +1,10 @@
+E:\Revisão C#\FormatException Bhaskara(MG)\bin\Debug\FormatException Bhaskara(MG).exe.config
+E:\Revisão C#\FormatException Bhaskara(MG)\bin\Debug\FormatException Bhaskara(MG).exe
+E:\Revisão C#\FormatException Bhaskara(MG)\bin\Debug\FormatException Bhaskara(MG).pdb
+E:\Revisão C#\FormatException Bhaskara(MG)\obj\Debug\FormatException Bhaskara(MG).csprojAssemblyReference.cache
+E:\Revisão C#\FormatException Bhaskara(MG)\obj\Debug\FormatException_Bhaskara_MG_.Form1.resources
+E:\Revisão C#\FormatException Bhaskara(MG)\obj\Debug\FormatException_Bhaskara_MG_.Properties.Resources.resources
+E:\Revisão C#\FormatException Bhaskara(MG)\obj\Debug\FormatException Bhaskara(MG).csproj.GenerateResource.cache
+E:\Revisão C#\FormatException Bhaskara(MG)\obj\Debug\FormatException Bhaskara(MG).csproj.CoreCompileInputs.cache
+E:\Revisão C#\FormatException Bhaskara(MG)\obj\Debug\FormatException Bhaskara(MG).exe
+E:\Revisão C#\FormatException Bhaskara(MG)\obj\Debug\FormatException Bhaskara(MG).pdb
