@@ -1,0 +1,10 @@
+E:\Revisão C#\Classes Cálculo de Média(MG)\obj\Debug\Classes Cálculo de Média(MG).csprojAssemblyReference.cache
+E:\Revisão C#\Classes Cálculo de Média(MG)\obj\Debug\Classes_Cálculo_de_Média_MG_.Form1.resources
+E:\Revisão C#\Classes Cálculo de Média(MG)\obj\Debug\Classes_Cálculo_de_Média_MG_.Properties.Resources.resources
+E:\Revisão C#\Classes Cálculo de Média(MG)\obj\Debug\Classes Cálculo de Média(MG).csproj.GenerateResource.cache
+E:\Revisão C#\Classes Cálculo de Média(MG)\obj\Debug\Classes Cálculo de Média(MG).csproj.CoreCompileInputs.cache
+E:\Revisão C#\Classes Cálculo de Média(MG)\bin\Debug\Classes Cálculo de Média(MG).exe.config
+E:\Revisão C#\Classes Cálculo de Média(MG)\bin\Debug\Classes Cálculo de Média(MG).exe
+E:\Revisão C#\Classes Cálculo de Média(MG)\bin\Debug\Classes Cálculo de Média(MG).pdb
+E:\Revisão C#\Classes Cálculo de Média(MG)\obj\Debug\Classes Cálculo de Média(MG).exe
+E:\Revisão C#\Classes Cálculo de Média(MG)\obj\Debug\Classes Cálculo de Média(MG).pdb
